@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "217055076794",
+    "project_id": "reactnativefirebaseex-db35a",
+    "storage_bucket": "reactnativefirebaseex-db35a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217055076794:android:4d75eb0c8760dfbf3bbd83",
+        "android_client_info": {
+          "package_name": "com.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217055076794-fq46c4bmss55cvqs69tl9hvqjildqsgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArdjIDLN8Est7xa6p2NwFrOqnMZ9X9gjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217055076794-fq46c4bmss55cvqs69tl9hvqjildqsgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217055076794:android:a6cb3369ab6d83473bbd83",
+        "android_client_info": {
+          "package_name": "com.ongrapgh.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217055076794-fq46c4bmss55cvqs69tl9hvqjildqsgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArdjIDLN8Est7xa6p2NwFrOqnMZ9X9gjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217055076794-fq46c4bmss55cvqs69tl9hvqjildqsgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
